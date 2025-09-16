@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: Fight and beat the squrriel, hold squirrel hostage, get beat by the hero who saves the squrriel.
 
 ## Final Checklist
 

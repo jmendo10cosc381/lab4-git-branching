@@ -10,14 +10,14 @@ Branches in this repo (with details):
     aeb3fca | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-09-16T13:37:19-04:00 | Added a center path.
     7b21044 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:48:11Z | Auto-update branch-info.txt
 - main
-  SHA: 0078b34b91ca7e269d4dc4fb581ac0deaa73950b
-  Commits: 5
+  SHA: 54eee4951850fd533870b43d997c1b637cd13cc4
+  Commits: 10
   Recent commits:
-    0078b34 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T18:06:06Z | Auto-update branch-info.txt
-    1bc7d2e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T18:02:33Z | Auto-update branch-info.txt
-    aeb3fca | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-09-16T13:37:19-04:00 | Added a center path.
-    7b21044 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:48:11Z | Auto-update branch-info.txt
-    ccdf814 | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T12:47:59-04:00 | Initial commit
+    54eee49 | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-09-16T15:00:06-04:00 | Merge branch 'villain-path'
+    1d87cbb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T18:58:54Z | Auto-update branch-info.txt
+    9a24df9 | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-09-16T18:58:23Z | Summarized villain path in README.md
+    12b4d73 | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-09-16T18:55:34Z | Finished villain path
+    6baa0c7 | Author: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Committer: Julia Mendoza <231963277+jmendo10cosc381@users.noreply.github.com> | Date: 2025-09-16T18:53:24Z | Added to villain path
 - villain-path
   SHA: 9a24df936e54c31556a5f10e999fb9dd3be754b4
   Commits: 8

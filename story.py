@@ -12,7 +12,10 @@ def intro():
 #HERO PATH
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
-    print("You pick you the glowing sword and the sword and decide to become an adventure")
+    print("You pick you the glowing sword and the sword and decide to become an adventure.")
+    print("You go around slaying monsters until you recieve a quest to kill the demon lord.")
+    print("You embark on the quest with your party and reach the demon king's lair.")
+    print("You defeat the demon king and get named a hero.")
 
 #VILLAIN PATH
 def right_path():

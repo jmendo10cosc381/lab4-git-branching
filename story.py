@@ -15,6 +15,8 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("You win the duel and you take the squirrel with you.")
+    print("You then find out that the squirrel was actually part of the royal family.")
 #DONT FORGET TO WRITE STORY
 def center_path():
     print("I will make up the story at the end!!!")
